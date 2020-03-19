@@ -34,7 +34,7 @@ Add `lodash-to-native` to the plugins section of your `.eslintrc` configuration 
 }
 ```
 
-## Usage
+## Test
 
 ```
 $ npm test
